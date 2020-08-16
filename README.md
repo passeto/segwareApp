@@ -8,8 +8,7 @@
 <p align="center">
 1. Qual sua experiência com a linguagem JavaScript? Por favor, nomeie o principal projeto o qual você utilizou esta linguagem, os principais frameworks envolvidos e a arquitetura utilizada.
 
-    R: Trabalho com o javascript há 2 anos, os principais projetos que participei foram
-    para o segmento de pecuarista, garantindo o controle total do gado para o abate tanto para a empresa quanto para os pecuaristas.
+    R: Trabalho com o javascript há 2 anos, os principais projetos que participei foram para o segmento de pecuarista, garantindo o controle total do gado para o abate tanto para a empresa quanto para os pecuaristas.
 
 2. Você possui experiência em alguma outra linguagem para back-end?
 
