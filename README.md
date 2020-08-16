@@ -6,32 +6,32 @@
 </h1>
 
 <p align="center">
-  1. Qual sua experiência com a linguagem JavaScript? Por favor, nomeie o principal projeto o qual você utilizou esta linguagem, os principais frameworks envolvidos e a arquitetura utilizada.
+1. Qual sua experiência com a linguagem JavaScript? Por favor, nomeie o principal projeto o qual você utilizou esta linguagem, os principais frameworks envolvidos e a arquitetura utilizada.
 
-R: Trabalho com o javascript há 2 anos, os principais projetos que participei foram
-para o segmento de pecuarista, garantindo o controle total do gado para o abate tanto para a empresa quanto para os pecuaristas.
+    R: Trabalho com o javascript há 2 anos, os principais projetos que participei foram
+    para o segmento de pecuarista, garantindo o controle total do gado para o abate tanto para a empresa quanto para os pecuaristas.
 
 2. Você possui experiência em alguma outra linguagem para back-end?
 
-R: Sim, com NodeJS
+   R: Sim, com NodeJS
 
 3. Qual a sua experiência com tecnologias front-end como AngularJS e ReactJS?
 
-R: Tenho experiêcnia de 1 ano com ReactJS.
+   R: Tenho experiêcnia de 1 ano com ReactJS.
 
 4. Qual sua experiência com desenvolvimento para dispositivos móveis?
 
-R: 1 ano, acredito que eu me classifique como um Dev Jr.
+   R: 1 ano, acredito que eu me classifique como um Dev Jr.
 
 5. Qual sua experiência em virtualização de ambientes, exemplo: Docker?
 
-R: utilizei docker em apenas um projeto, sou um pouco leigo no assunto, acredito
-que a partir da documentação oficial, é possível aprender.
+   R: utilizei docker em apenas um projeto, sou um pouco leigo no assunto, acredito
+   que a partir da documentação oficial, é possível aprender.
 
 6. Quais foram seus cargos nos times que você contribuiu (considerando os seus últimos projetos/trabalhos que você trabalhou)? Qual era o tamanho destes times?
 
-R: Full-Stack developer, utilizando React-Native, ReactJS e NodeJS.
-Os times eram formados por 4 ou 5 integrantes.
+   R: Full-Stack developer, utilizando React-Native, ReactJS e NodeJS.
+   Os times eram formados por 4 ou 5 integrantes.
 
 </p>
 
